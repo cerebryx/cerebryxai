@@ -88,5 +88,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Community
 Join our growing community of developers and AI enthusiasts:
 
-Follow us on [Twitter](https://twitter.com/CerebryxAI) for updates
+Follow us on 🐦 [Twitter](https://twitter.com/CerebryxAI) for updates
 Visit our 🌐 [Website](http://cerebryxai.icu/) to start engaging with your digital AI entity.
