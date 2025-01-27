@@ -47,7 +47,7 @@ Cerebryx AI represents a shift in traditional AI development, combining natural 
 
 
 # Clone the repository
-git clone [https://github.com/cerebryxai/cerebryxai.git](https://github.com/cerebryx/cerebryxai)
+git clone https://github.com/cerebryx/cerebryxai
 
 # Install dependencies
 npm install
